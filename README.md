@@ -5,29 +5,51 @@ This repository hosts the analysis files for the comparative study on the reliab
 Folder Structure
 
 •	FODS: Case study on the Food Order and Delivery System.
+
   •	ChatGPT: Contains analysis files of ChatGPT's reliability.
+  
     •	ChatGPT-transcript.pdf: Transcript containing the output of ChatGPT.
+    
     •	ChatGPT-reliability.pdf: Analysis of the transcript for reliability assessment.
+    
   •	Claude: Similar structure as ChatGPT.
+  
     •	Claude -transcript.pdf: Transcript containing the output of Claude.
+    
     •	Claude -reliability.pdf: Analysis of the transcript for reliability assessment.
+    
   •	Copilot: Similar structure as ChatGPT.
+  
     •	Copilot -transcript.pdf: Transcript containing the output of Copilot.
+    
     •	Copilot -reliability.pdf: Analysis of the transcript for reliability assessment.
+    
   •	Gemini: Similar structure as ChatGPT.
+  
     •	Gemini -transcript.pdf: Transcript containing the output of Gemini.
+    
     •	Gemini -reliability.pdf: Analysis of the transcript for reliability assessment.
+    
   •	Meta: Similar structure as ChatGPT.
+  
     •	Meta -transcript.pdf: Transcript containing the output of Meta.
+    
     •	Meta -reliability.pdf: Analysis of the transcript for reliability assessment.
+    
   •	similarity: Contains a single file.
+  
     •	similarity.pdf: Analysis of the similarity of all models in the FODS case.
 
 •	SWS: Case study on the Smart Wallet System.
+
   •	Similar sub-folder structure as FODS for each LLM.
+  
   •	Each model's folder contains two files: one for the transcript and another for reliability analysis.
+  
   •	similarity: Contains a single file.
+  
   •	similarity.pdf: Analysis of the similarity of all models in the SWS case.
+  
 
 Analysis Overview
 
