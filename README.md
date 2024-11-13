@@ -39,6 +39,9 @@ Folder Structure
   •	similarity: Contains a single file.
   
     •	similarity.pdf: Analysis of the similarity of all models in the FODS case.
+    
+    •	FODS-similarity.tex: Analysis summary of the similarity of all models in the FODS case.
+    
 
 •	SWS: Case study on the Smart Wallet System.
 
